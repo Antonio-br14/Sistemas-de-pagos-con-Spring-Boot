@@ -10,3 +10,4 @@ Proyecto backend realizado en Java con Spring Boot que simula un sistema de pago
 ## Cómo ejecutar
 ```bash
 ./mvnw spring-boot:run
+- Luego accede a Swagger en: http://localhost:8080/swagger-ui.html 
